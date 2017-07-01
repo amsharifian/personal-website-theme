@@ -248,3 +248,19 @@
     }
   }
 }
+
+
+
+/**
+ * CV
+ */
+.cv>.post-content>blockquote{
+  margin-top: -15px;
+  margin-left: 30px;
+  color: $text-color;
+  border-left: none;
+  padding-left: 0;
+  @include relative-font-size(1);
+  letter-spacing: normal;
+  font-style: normal;
+}
