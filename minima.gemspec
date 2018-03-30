@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "personal-website-theme"
-  spec.version       = "2.1.1"
+  spec.version       = "2.4.0"
   spec.authors       = ["Martin Körner"]
   spec.email         = ["info@mkoerner.de"]
 
